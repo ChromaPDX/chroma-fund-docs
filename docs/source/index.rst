@@ -13,6 +13,7 @@ Contents:
 
    license
    help
+   mike
 
 
 Indices and tables
