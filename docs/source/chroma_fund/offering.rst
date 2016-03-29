@@ -1,4 +1,4 @@
-Creating a New Offering
+Creating An Offering
 =====================
 
 Create New Offering
