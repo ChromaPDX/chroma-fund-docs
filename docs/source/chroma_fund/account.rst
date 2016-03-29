@@ -50,3 +50,14 @@ Logout
 ------
 
 To log out scroll to the bottom of your account page and select "LOGOUT"
+
+Create a New Offering
+=====================
+
+To create a new offering select PORTFOLIO in the menu bar.
+
+.. image:: /images/select_portfolio.png
+
+On the Portfolio page select "NEW OFFERING"
+
+.. image:: /images/select_newoffering.png
