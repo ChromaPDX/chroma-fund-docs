@@ -12,24 +12,24 @@ Investor:
    :maxdepth: 2
 
    Join
-   Verify Email Address
+   VerifyEmailAddress
 
 Company:
 
 .. toctree::
    :maxdepth: 2
 
-   Doing a thing
-   doing another thing
+   CreateAccount
+   SetTerms
 
 Admin:
 
 .. toctree::
    :maxdepth: 2
 
-   admin 1
-   admin 2
-   admin 3
+   admin1
+   admin2
+   admin3
 
 
 
