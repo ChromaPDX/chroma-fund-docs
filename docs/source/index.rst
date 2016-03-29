@@ -11,7 +11,7 @@ Investor:
 .. toctree::
    :maxdepth: 2
 
-   Join
+   join
    VerifyEmailAddress
 
 Company:
