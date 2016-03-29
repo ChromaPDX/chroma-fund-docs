@@ -13,7 +13,7 @@ Contents:
 
    license
    help
-   mike
+   gettingstarted
 
 
 Indices and tables
