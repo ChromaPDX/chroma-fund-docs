@@ -82,3 +82,19 @@ Upload an image for the offering.
 Upload the prospectus for the offering.
 
 And then select SAVE.
+
+Contract
+~~~~~~~~
+
+The financial details.
+
+Posts
+~~~~~
+
+A place for updates.
+
+Preview
+~~~~~~~
+
+Review that everything looks cool.
+
