@@ -1,4 +1,4 @@
-## Join
+## How do I create an account?
 
 To create your account you'll need to provide the following:
 
