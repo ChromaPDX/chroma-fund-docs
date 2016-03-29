@@ -6,33 +6,13 @@
 Welcome to Chroma.fund's documentation!
 =======================================
 
-Investor:
+Chroma.fund
+-----------
 
 .. toctree::
    :maxdepth: 2
 
-   account
-      join
-      email
-
-Company:
-
-.. toctree::
-   :maxdepth: 2
-
-   CreateAccount
-   SetTerms
-
-Admin:
-
-.. toctree::
-   :maxdepth: 2
-
-   admin1
-   admin2
-   admin3
-
-
+   chroma_fund/account.rst
 
 
 Indices and tables
