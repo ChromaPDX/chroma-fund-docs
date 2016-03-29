@@ -13,6 +13,7 @@ Chroma.fund
    :maxdepth: 2
 
    chroma_fund/account.rst
+   chroma_fund/offering.rst
 
 
 Indices and tables
