@@ -6,14 +6,32 @@
 Welcome to Chroma.fund's documentation!
 =======================================
 
-Contents:
+Investor:
 
 .. toctree::
    :maxdepth: 2
 
-   license
-   help
-   gettingstarted
+   Join
+   Verify Email Address
+
+Company:
+
+.. toctree::
+   :maxdepth: 2
+
+   Doing a thing
+   doing another thing
+
+Admin:
+
+.. toctree::
+   :maxdepth: 2
+
+   admin 1
+   admin 2
+   admin 3
+
+
 
 
 Indices and tables
