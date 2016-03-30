@@ -12,6 +12,7 @@ Chroma.fund
 .. toctree::
    :maxdepth: 2
 
+   chroma_fund/overview.rst
    chroma_fund/account.rst
    chroma_fund/offering.rst
 
