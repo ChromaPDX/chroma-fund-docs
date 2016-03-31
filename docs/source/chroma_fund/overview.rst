@@ -12,14 +12,6 @@ Features of Chroma.fund include:
 2. b
 3. c
 
-Getting started
----------------
-
-To familiarize yourself with Chroma.fund, you can:
-
-* create an account on the Chroma.fund demo (coming soon)
-* contact us about a custom installation
-
 Frequently Asked Questions
 --------------------------
 
