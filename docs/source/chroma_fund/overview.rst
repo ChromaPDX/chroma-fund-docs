@@ -26,10 +26,3 @@ Those securities are then tradable (by accredited investors) on a secondary mark
 .. image:: /images/trading_example.png
 
 
-Frequently Asked Questions
---------------------------
-
-What Questions Do You Have
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We will answer them.
