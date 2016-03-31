@@ -19,7 +19,20 @@ Scroll down to your offering and select "DIVIDENDS"
 Add Funding Source
 ------------------
 
-TK
+To add a funding source you must bank with one of the following companies:
+
+.. image:: /images/select_bank.png
+
+Select your bank, login, and choose the appropriate account.
+
+.. image:: /images/bank_use_account.png
+
+Change Funding Source
+---------------------
+
+If you change banks you can select "CHANGE" and follow the steps from Add Funding Source.
+
+.. image:: /images/bank_changeaccount.png
 
 Add Dividend Details
 --------------------
