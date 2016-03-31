@@ -15,12 +15,7 @@ Features of Chroma.fund include:
 Frequently Asked Questions
 --------------------------
 
-Who is Chroma.fund for?
-~~~~~~~~~~~~~~~~~~~~~~~
+What Questions Do You Have
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-answer coming soon
-
-Question 2
-~~~~~~~~~~
-
-An Answer
+We will answer them.
