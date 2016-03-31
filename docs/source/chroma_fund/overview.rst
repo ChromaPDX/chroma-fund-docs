@@ -1,3 +1,5 @@
+.. image:: /images/128.png
+
 Overview of Chroma.fund
 =======================
 
