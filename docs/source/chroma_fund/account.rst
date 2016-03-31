@@ -1,6 +1,5 @@
 .. _chroma_fund-account:
 
-.. image:: /images/128.png
 
 Creating an Account
 ===================
