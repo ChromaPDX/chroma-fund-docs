@@ -6,15 +6,31 @@
 Welcome to Chroma.fund's documentation!
 =======================================
 
-Chroma.fund
------------
+Overview
+--------
 
 .. toctree::
    :maxdepth: 2
 
    chroma_fund/overview.rst
+   
+Getting Started
+---------------
+
+.. toctree::
+   :maxdepth: 2
+   
    chroma_fund/account.rst
    chroma_fund/offering.rst
+   
+General
+-------
+
+.. toctree::
+   :maxdepth: 2
+   
+   chroma_fund/howto_buy.rst
+   chroma_fund/howto_senddividend.rst
 
 
 Indices and tables
