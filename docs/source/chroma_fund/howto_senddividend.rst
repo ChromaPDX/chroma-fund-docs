@@ -40,10 +40,6 @@ You'll get a pop-up message to confirm payment.
 
 Select "SUBMIT PAYMENT".
 
-Review the terms, check "I agree", and select "PLACE ORDER".
-
-.. image:: /images/placeorder.png
-
 Review Dividend Payment
 =======================
 
