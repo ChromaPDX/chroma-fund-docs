@@ -4,7 +4,7 @@ Overview of Chroma.fund
 What is Chroma.fund?
 --------------------
 
-Chroma.fund is a platform that allows investment and trading in privately held companies.
+Chroma.fund is a new securities exchange for the private market economy.
 
 Features of Chroma.fund include:
 
