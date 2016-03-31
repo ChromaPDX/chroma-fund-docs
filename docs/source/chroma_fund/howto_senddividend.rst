@@ -25,7 +25,7 @@ To add a funding source you must bank with one of the following companies:
 
 Select your bank, login, and choose the appropriate account.
 
-.. image:: /images/bank_use_account.png
+.. image:: /images/bank_useaccount.png
 
 Change Funding Source
 ---------------------
