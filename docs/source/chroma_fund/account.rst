@@ -38,6 +38,14 @@ You'll need to enter your personal and bank details.
 
 .. image:: /images/Stripe__Connect_with_Chroma_Fund.png
 
+At the end of the form select "Authorize access to this account"
+
+.. image:: /images/Stripe_authorize.png
+
+And you'll see that Stripe is successfully connected:
+
+.. image:: /images/Stripe_connected.png
+
 Edit Profile
 ------------
 
