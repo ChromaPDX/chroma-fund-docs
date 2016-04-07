@@ -46,6 +46,8 @@ And you'll see that Stripe is successfully connected:
 
 .. image:: /images/Stripe_connected.png
 
+.. note:: Payments will only be made if more than $0.50 is due.
+
 Edit Profile
 ------------
 
