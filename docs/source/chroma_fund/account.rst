@@ -28,13 +28,15 @@ You will be taken to your account page.
 Add Banking Details
 -------------------
 
-In order to receive payments you'll need to provide your banking information to Stripe.
+In order to receive payments you'll need to provide your banking information via Stripe.
 
-TK
+Go to your account page and scroll down to "SIGN IN WITH STRIPE"
 
-.. image:: /images/128.png
+.. image:: /images/signinwithstripe.png
 
-Select "SIGN IN WITH STRIPE".
+You'll need to enter your personal and bank details.
+
+.. image:: /images/Stripe__Connect_with_Chroma_Fund.png
 
 Edit Profile
 ------------
