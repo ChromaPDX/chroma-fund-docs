@@ -1,7 +1,5 @@
 .. _chroma_fund-account:
 
-.. image:: /images/128.png
-
 How To Invest
 =============
 
