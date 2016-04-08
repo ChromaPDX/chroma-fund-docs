@@ -3,7 +3,7 @@
 How To Trade
 ============
 
-To buy or sell your position select the offering you wish to trade and scroll down to "SECONDARY MARKET"
+To buy or sell a position in the secondary market (if availible) select the offering you wish to trade and scroll down to "SECONDARY MARKET"
 
 .. image:: /images/select_secondarymarket.png
 
