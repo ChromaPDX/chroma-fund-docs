@@ -25,20 +25,20 @@ Chart
 
 TK
 
-SYMBOL AND PRICE
+Symbol and Price
 ----------------
 
 TK
 
-BUY/SELL INTERFACE
+Buy/Sell Interface
 ------------------
 
 TK
 
-BUY AND SELL ORDERS
+Buy and Sell Orders
 -------------------
 
 TK
 
-MY TRADES
+My Trades
 ---------
