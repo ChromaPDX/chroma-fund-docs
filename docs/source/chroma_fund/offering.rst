@@ -49,6 +49,7 @@ Contract
 * Contract Type: As a business you will select revenue or equity.
 
 If Equity: 
+
 * Threshold: The minimum amount of your total raise you will accept.
 * Percent of company you will be offering: Select a percentage from the drop down list.
 
