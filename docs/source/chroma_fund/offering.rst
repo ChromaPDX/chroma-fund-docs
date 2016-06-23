@@ -65,15 +65,23 @@ If Revenue sharing:
 * Return Cap: The total return for the investor. 1 = Get their money back, 2 = double their money.
 * Threshold: The minimum amount of your total raise you will accept.
 * Share price: Not an equity share, but what is the lowest amount of investment allowed.
-* Estimated monthly gross income: This is not shared with investors, but we use to calculate when the investor will get paid back.
+* Estimated monthly gross income: This is not shared with investors, but we use it to calculate when the investor will get paid back.
+
+If fund: 
+
+* Share price: The lowest amount you are willing to take. Should be a multiple of the total amount being raised.
 
 Posts
 ~~~~~
 
-A place for updates.
+Updates will append to the bottom of the offering.
+
+* Body: The message of the update.
+* Publish Date: You can future-date the post so that it shows up at a certain time.
+* Public: If ON anyone viewing the page will see the update. If OFF only investors will be able to view the update.
 
 Preview
 ~~~~~~~
 
-Review that everything looks cool.
+Provides a preview of the page as it will appear to the investor.
 
