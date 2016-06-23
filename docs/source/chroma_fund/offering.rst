@@ -59,6 +59,7 @@ If Equity:
 .. note: We calculate the total shares based on share price, % equity being sold, and total raised.
 
 If Revenue sharing:
+
 * Percent Shared: The percentage of _gross_ revenue shared with investors.
 * Return Cap: The total return for the investor. 1 = Get their money back, 2 = double their money.
 * Threshold: The minimum amount of your total raise you will accept.
