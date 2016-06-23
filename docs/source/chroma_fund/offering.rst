@@ -4,36 +4,61 @@ Creating An Offering
 Create New Offering
 -------------------
 
-To create a new offering select PORTFOLIO in the menu bar.
+.. note:: Only business and admin users can create offerings.
 
-.. image:: /images/select_portfolio.png
+To create a new offering select ADMIN in the menu bar.
 
-On the Portfolio page select "NEW OFFERING"
+In the ADMIN section select "Offerings" in the sidebar.
 
-.. image:: /images/select_newoffering.png
+.. note:: Offerings is the default view when you click ADMIN in the menubar. 
+
+Select the NEW OFFERING button.
 
 Describe Offering
 -----------------
 
 .. note:: Do not select "SUBMIT" until you are ready to publish your offering.
 
-The first part of creating a new offering is the info tab.
+To create the offering you'll fill out the "info" tab and the "contract" tab.
 
 Info
 ~~~~
 
 On the info tab fill out the following:
 
-Fill out the Title, Summary, and Description for the offering.
-Upload an image for the offering.
-Upload the prospectus for the offering.
+Title: The headline for the offering. Typically the name of the business.
+Summary: Limited to 144 characters, this is a one line explanation of the business.
+Offering image: An image that represents your offering/business. Aspect ratio is 1920x1080. File type must be .jpg. 
+Youtube video id: If you're using (not required) a video just enter the video id from Youtube. 
 
-And then select SAVE.
+.. note:: If your Youtube URL is https://www.youtube.com/watch?v=SYhmK6qa-_g you would just enter SYhmK6qa-_g
+
+Prospectus: Upload a PDF of your materials. One document only.
+Description: An explantion of your offering.
+
+When complete select SAVE.
 
 Contract
 ~~~~~~~~
 
-The financial details.
+Corporate entity: The legally registered business name of the company
+How much money would you like to raise?: The total/highest amount you're looking to raise.
+
+.. note:: You will not be permitted to raise more than the total amount enetered.
+
+Contract Type: As a business you will select revenue or equity.
+If Equity: 
+* Threshold: The minimum amount of your total raise you will accept.
+* Percent of company you will be offering: Select a percentage from the drop down list.
+
+.. note:: The percent of a company offered is a list of presets in order to ensure divisibility.
+
+* Share price: The price you will sell 1 share for.
+
+.. note: We calculate the total shares based on share price, % equity being sold, and total raised.
+
+If Revenue:
+
 
 Posts
 ~~~~~
