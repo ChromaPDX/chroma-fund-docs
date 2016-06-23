@@ -27,13 +27,17 @@ Info
 On the info tab fill out the following:
 
 Title: The headline for the offering. Typically the name of the business.
+
 Summary: Limited to 144 characters, this is a one line explanation of the business.
+
 Offering image: An image that represents your offering/business. Aspect ratio is 1920x1080. File type must be .jpg. 
+
 Youtube video id: If you're using (not required) a video just enter the video id from Youtube. 
 
 .. note:: If your Youtube URL is https://www.youtube.com/watch?v=SYhmK6qa-_g you would just enter SYhmK6qa-_g
 
 Prospectus: Upload a PDF of your materials. One document only.
+
 Description: An explantion of your offering.
 
 When complete select SAVE.
