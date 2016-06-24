@@ -1,49 +1,20 @@
 .. _chroma_fund-account:
 
-How To Invest
-=============
+Making a Committment
+====================
 
-To invest in a fund or offering select INVEST in the menu bar.
+Making a committment to a fund pledges an amount to the fund and authorizes the fund to pull that amount from a bank account. The process includes entering the amount being pledging and authorizing an account.
 
-.. image:: /images/invest.png
+Reviewing Fund 
+--------------
 
-Choose Investment
------------------
+The fund page will give you an overview of the fund, a bio of the fund manager, and a prospectus detailing more information. As companies are added to the fund they will be listed on the fund page.
 
-Choose a fund or a company to invest in.
+Committing To a Fund
+--------------------
 
-.. image:: /images/fund.png
+An investor will commit to a fund by selecting **SETUP MY ACCOUNT**.
 
-.. image:: /images/companies.png
+The account setup includes any pre-qualifying requirements (income verification, etc) and attaching their bank account.
 
-.. note:: A fund is made up of several companies. Scroll to the bottom of a fund to see the companies included.
-
-Review Offering Details
------------------------
-
-Read the information provided by the company and terms of the investment.
-
-Download the prospectus.
-
-.. note:: Do your own research before you choose to invest. 
-
-Make an Investment
-------------------
-
-Each offering will have a minimum amount you can invest. Select how much you wish to invest based on multiples of that minimum amount.
-
-.. image:: /images/buybonds.png
-
-Select "INVEST".
-
-Review the terms, check "I agree", and select "PLACE ORDER".
-
-.. image:: /images/placeorder.png
-
-Fill in your payment information.
-
-.. image:: /images/creditcard.png
-
-You will see the confirmation screen and your order is complete.
-
-.. image:: /images/success.png
+* ACH Authorization: Select their bank and enable ACH payments.
