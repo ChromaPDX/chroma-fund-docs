@@ -85,3 +85,18 @@ Preview
 
 Provides a preview of the page as it will appear to the investor.
 
+Publish Offering
+----------------
+
+From the Admin / Offerings view you can set the state of an offering. States include:
+
+* editing: this is a draft mode. from editing you can **edit** or **submit**
+* submitted: the offering is complete and an admin can now **edit** or **publish** or **flag**
+* flagged: to mark as flagged a comment of at least 20 characters must be posted. from flagged you can **edit** or **submit**
+* approved: only an admin can mark an offering as approved, typically once all chances have been verified. this is the final chance to make changes as the options are **edit** and **open**
+* open: when open a fund can accept payments. from open the options are **edit**, **complete**, **suspend**, **archive**
+* complete: mark an offering as complete after investments are complete. options include **edit**, **resume**, and **unpublish**
+* suspend: suspend an offering to temporarily close it. from suspend you can **edit**, **resume**, and **unpublish**
+* hidden: when unpublished an offering is hidden. it can be **edit** or **re-publish**
+* closed: after closing an account it is still visible. options are **edit**, **resume**, or **unpublish**
+
