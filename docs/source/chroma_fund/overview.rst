@@ -3,26 +3,13 @@
 Overview of Chroma.fund
 =======================
 
-What is Chroma.fund?
---------------------
+Chroma.fund is a securities exchange for the private market economy. This is a user guide designed for Admins.
 
-Chroma.fund is a new securities exchange for the private market economy.
+User Roles
+----------
 
-Features of Chroma.fund include:
-
-1. A white label platform
-2. For primary & secondary market transactions
-3. Managed by our private blockchain
-
-How does Chroma.fund work?
---------------------------
-
-Securities from private companies are listed on the platform and sold to investors.
-
-.. image:: /images/offering_example.png
-
-Those securities are then tradable (by accredited investors) on a secondary market.
-
-.. image:: /images/trading_example.png
+* Admin: the admin posts a thesis for the fund and collects commitments from investors, then selects companies for the fund.
+* Business: When selected by an Admin a Business can list their company details and communicate to Investors as well as send them money.
+* Investors: Investors commit to a fund and then make direct investments into Businesses.
 
 
