@@ -23,8 +23,8 @@ Getting Started
    chroma_fund/account.rst
    chroma_fund/offering.rst
    
-General
--------
+Investments and Payments
+------------------------
 
 .. toctree::
    :maxdepth: 2
