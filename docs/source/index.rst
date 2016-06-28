@@ -29,7 +29,7 @@ Investments and Payments
 .. toctree::
    :maxdepth: 2
    
-   chroma_fund/howto_buy.rst
+   chroma_fund/committments.rst
    chroma_fund/howto_trade.rst
    chroma_fund/howto_senddividend.rst
 
