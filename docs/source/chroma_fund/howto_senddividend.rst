@@ -11,7 +11,8 @@ In order to send payment the company owner will login and go to ADMIN.
 
 On the Offerings page select DIVIDENDS for the appropriate company.
 
-**If Sharing Revenue:**
+Sharing Revenue
+---------------
 
 The company owner will atach their business bank account and enter the following:
 * Gross income for the period
