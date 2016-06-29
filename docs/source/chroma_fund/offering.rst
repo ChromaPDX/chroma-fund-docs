@@ -88,7 +88,11 @@ Provides a preview of the page as it will appear to the investor.
 Publish Offering
 ----------------
 
-From the Admin / Offerings view you can set the state of an offering. States include:
+From the Admin / Offerings view you can set the state of an offering. 
+
+.. images:: /images/states.png
+
+States include:
 
 * editing: this is a draft mode. from editing you can **edit** or **submit**
 * submitted: the offering is complete and an admin can now **edit** or **publish** or **flag**
