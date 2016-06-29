@@ -90,7 +90,7 @@ Publish Offering
 
 From the Admin / Offerings view you can set the state of an offering. 
 
-.. images:: /images/states.png
+.. image:: /images/states.png
 
 States include:
 
