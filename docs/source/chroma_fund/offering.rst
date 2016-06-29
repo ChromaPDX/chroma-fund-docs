@@ -94,13 +94,12 @@ From the Admin / Offerings view you can set the state of an offering.
 
 States include:
 
-* editing: this is a draft mode. from editing you can **edit** or **submit**
-* submitted: the offering is complete and an admin can now **edit** or **publish** or **flag**
-* flagged: to mark as flagged a comment of at least 20 characters must be posted. from flagged you can **edit** or **submit**
-* approved: only an admin can mark an offering as approved, typically once all chances have been verified. this is the final chance to make changes as the options are **edit** and **open**
-* open: when open a fund can accept payments. from open the options are **edit**, **complete**, **suspend**, **archive**
-* complete: mark an offering as complete after investments are complete. options include **edit**, **resume**, and **unpublish**
-* suspend: suspend an offering to temporarily close it. from suspend you can **edit**, **resume**, and **unpublish**
-* hidden: when unpublished an offering is hidden. it can be **edit** or **re-publish**
-* closed: after closing an account it is still visible. options are **edit**, **resume**, or **unpublish**
+* editing: Draft mode.
+* submitted: The Business is finished creating the offering and waiting for an admin to publish. if the admin notes a problem they can mark the offering as flagged and the Business will see the message.
+* flagged: The Business can make the changes and resubmit the offering
+* approved: Once you mark an offering as approved it is unpublished but ready
+* open: When ready to reveal to investors you mark the offering as open and can run the capital call
+* closed: After completing the capital call you can mark an offering as closed. It will still be visible.
+* suspend: To stop an offering or fund you can suspend it. committments and investments will not be possible
+* hidden: To remove an offering or fund from the site you can mark it hidden
 
