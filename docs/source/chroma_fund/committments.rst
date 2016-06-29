@@ -3,17 +3,17 @@
 Making a Committment
 ====================
 
-Making a committment to a fund pledges an amount to the fund and authorizes the fund to pull that amount from a bank account. The process includes entering the amount being pledging and authorizing an account.
+Investors make a committment to a fund pledging an amount to be invested. The fund can then authorize the transfer of portions of the total committed amount from the Investor to the Business.
 
 Reviewing Fund 
 --------------
 
-The fund page will give you an overview of the fund, a bio of the fund manager, and a prospectus detailing more information. As companies are added to the fund they will be listed on the fund page.
+The fund page gives the Investor an overview of your fund, the bio of the fund manager, and a link to download the prospectus detailing more information.
 
 Committing To a Fund
 --------------------
 
-An investor will commit to a fund by selecting **SETUP MY ACCOUNT**.
+An Investor commits to a fund by selecting **SETUP MY ACCOUNT** on the fund page.
 
 The account setup includes any pre-qualifying requirements (income verification, etc) and attaching their bank account.
 
@@ -22,9 +22,9 @@ The account setup includes any pre-qualifying requirements (income verification,
 Making a Capital Call
 ---------------------
 
-Once you have onboarded a Business you will make a Capital Call. 
+Once you have onboarded a Business you can make a Capital Call. 
 
-As an Admin go to the Admin section in the menu bar.
+As the Fund Admin, go to the Admin section in the menu bar.
 
 In the Fund Commands select **Capital Calls**
 
