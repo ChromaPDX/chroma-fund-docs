@@ -15,6 +15,7 @@ Sharing Revenue
 ---------------
 
 The company owner will atach their business bank account and enter the following:
+
 * Gross income for the period
 * start date of the period
 * end date of the period
