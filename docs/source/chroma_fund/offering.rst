@@ -1,25 +1,25 @@
 Creating An Offering
 =====================
 
+.. note:: The fund admin should create the Fund before onboarding Businesses to create Offerings.
+
 Create New Offering
 -------------------
 
-.. note:: Only business and admin users can create offerings.
-
-To create a new offering select ADMIN in the menu bar.
+To create a new offering (or fund) select ADMIN in the menu bar.
 
 In the ADMIN section select "Offerings" in the sidebar.
 
 .. note:: Offerings is the default view when you click ADMIN in the menubar. 
 
-Select the NEW OFFERING button.
+Select the **NEW OFFERING** or **NEW FUND** button.
 
 Describe Offering
 -----------------
 
 .. note:: Do not select "SUBMIT" until you are ready to publish your offering.
 
-To create the offering you'll fill out the "info" tab and the "contract" tab.
+To create the offering or fund you'll fill out the "info" tab and the "contract" tab.
 
 Info
 ~~~~
