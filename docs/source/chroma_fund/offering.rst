@@ -103,3 +103,14 @@ States include:
 * suspend: To stop an offering or fund you can suspend it. committments and investments will not be possible
 * hidden: To remove an offering or fund from the site you can mark it hidden
 
+Add Offering to a Fund
+----------------------
+
+Once an offering is complete you can add it to your fund. 
+
+Go to the **ADMIN** section under **Offerings**
+
+In the list of offerings (both Funds and Companies) you'll see the business and the dropdown will be blank (marked with a dash).
+
+Select the dropdown and choose the fund you wish you to include the company in.
+
