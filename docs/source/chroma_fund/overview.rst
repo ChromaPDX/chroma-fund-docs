@@ -20,3 +20,5 @@ As the Admin you can change roles to allow users to administer a Business.
 On the sidebar of the **admin** section select **users**.
 
 User roles are highlighted in blue and can be toggled on and off.
+
+.. note:: If you are running a demo instance of Chroma.fund you can always navigate to /admin/automation to run the scripts
