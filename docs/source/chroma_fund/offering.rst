@@ -44,7 +44,7 @@ Contract
 * Corporate entity: The legally registered business name of the company
 * How much money would you like to raise?: The total/highest amount you're looking to raise.
 
-.. note:: You will not be permitted to raise more than the total amount enetered.
+.. note:: You will not be permitted to raise more than the total amount entered.
 
 * Contract Type: As a business you will select revenue or equity.
 
